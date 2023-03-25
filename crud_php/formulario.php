@@ -36,6 +36,18 @@
             }
         }
     ?>
+    <br/>
+            <table width="500" border="2" style="background-color:#F9F9F9; ">
+                <tr>
+                <th>ID</th>
+                <th>USUARIO</th>
+                <th>PASSWORD</th>
+                <th>EMAIL</th>
+                <th>Editar</th>
+                <th>Borrar</th>
+                </tr>
+            </table>
+            
 
 </body>
 </html>
